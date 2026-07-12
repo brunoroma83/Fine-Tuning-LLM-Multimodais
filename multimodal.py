@@ -1,5 +1,5 @@
+import os
 import argparse
-
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Treina o Qwen2-VL com LoRA para circuitos.")
@@ -27,13 +27,11 @@ def parse_args():
 
 args = parse_args()
 
-
 from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 from datetime import datetime
 import torch
 from dotenv import load_dotenv
 import kagglehub
-import os
 import json
 from datasets import Dataset
 from PIL import Image as PILImage, ImageOps
@@ -41,14 +39,9 @@ from qwen_vl_utils import process_vision_info
 from peft import LoraConfig, PeftModel, get_peft_model
 from trl import SFTConfig, SFTTrainer
 from tqdm import tqdm
+from config import *
 
 load_dotenv()  # Load environment variables from .env file
-
-OUTPUT_DIR = "./qwen2-vl-circuitos"
-FINAL_MODEL_PREFIX = "./qwen2-vl-circuitos-final"
-IMAGE_MAX_SIZE = 512
-RESIZED_IMAGE_DIR = "./temp/resized_train_images"
-
 
 def encontrar_treino_mais_recente(output_dir, final_model_prefix):
     candidatos = []
@@ -204,7 +197,7 @@ print(f"Total de exemplos no dataset de treino: {len(dataset_treino)}\n")
 ###
 
 # 1. Definir o caminho do modelo no Hugging Face
-model_id = "Qwen/Qwen2-VL-2B-Instruct"
+model_id = MODEL_BASE_ID
 
 # 2. Carregar o processador (cuida de texto e imagem simultaneamente)
 processor = AutoProcessor.from_pretrained(model_id)

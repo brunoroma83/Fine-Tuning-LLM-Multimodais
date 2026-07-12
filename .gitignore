@@ -1,8 +1,9 @@
 .env
-qwen2-vl-circuitos-final/
-qwen2-vl-circuitos/
 unsloth_compiled_cache/
 qwen_lora/
-venv/
-venv-unsloth/
+unsloth-venv/
 __pycache__/
+temp/
+multi-venv/
+outputs/
+unsloth-model.py

@@ -8,17 +8,11 @@ from peft import PeftModel
 from dotenv import load_dotenv
 from tqdm import tqdm
 from PIL import Image as PILImage, ImageOps
+import config
 load_dotenv()  # Carrega variáveis de ambiente do arquivo .env
 
 # --- 1. CONFIGURAÇÃO DE CAMINHOS ---
-PATH = "/home/bruno/.cache/kagglehub/competitions/pcs-3838-pcs-5022-2026-parte-2"
-INPUT_PATH_TEXT = os.path.join(PATH, "kaggle_dataset/test_dataset/text/questions.jsonl")  # Arquivo JSONL com perguntas de teste
-PASTA_IMAGENS_TEST = os.path.join(PATH, "kaggle_dataset/test_dataset/images")       # Pasta contendo circuit_0.jpg, etc.
-PASTA_IMAGENS_TEST_RESIZED = "./resized_test_images"
-IMAGE_MAX_SIZE = 512
-MODEL_BASE_ID = "Qwen/Qwen2-VL-2B-Instruct"
-DIRETORIO_LORA = "./qwen2-vl-circuitos-final-epochs-4-2026-07-03-01-20-00"        # Onde o SFTTrainer salvou o modelo
-OUTPUT_PATH = f"submission-{datetime.now().strftime('%Y-%m-%d-%H-%M-%S')}.csv"
+# config.py
 
 # --- 2. CARREGAR MODELO E PROCESSADOR ---
 print("Carregando o modelo base e o processador...")
