@@ -1,0 +1,8 @@
+.env
+qwen2-vl-circuitos-final/
+qwen2-vl-circuitos/
+unsloth_compiled_cache/
+qwen_lora/
+venv/
+venv-unsloth/
+__pycache__/

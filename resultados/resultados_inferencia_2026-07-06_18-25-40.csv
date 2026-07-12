@@ -1,0 +1,201 @@
+id,pergunta,esperado,predicao,correto
+1800,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=True, x4=False, x5=True, x6=True, x7=True?",False,False,True
+1801,How many and gates are in this logic circuit?,3,3,True
+1802,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=True, x4=False, x5=True, x6=False, x7=True?",False,False,True
+1803,How many not gates are in this logic circuit?,3,3,True
+1804,How many and gates are in this logic circuit?,1,1,True
+1805,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=True, x4=True, x5=True, x6=True, x7=False, x8=True?",False,True,False
+1806,How many or gates are in this logic circuit?,2,2,True
+1807,How many xor gates are in this logic circuit?,1,1,True
+1808,How many xnor gates are in this logic circuit?,0,0,True
+1809,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=True, x4=True, x5=True, x6=True, x7=False, x8=False, x9=True?",True,True,True
+1810,How many xor gates are in this logic circuit?,3,3,True
+1811,How many nand gates are in this logic circuit?,0,0,True
+1812,How many or gates are in this logic circuit?,4,4,True
+1813,How many nand gates are in this logic circuit?,0,0,True
+1814,How many nand gates are in this logic circuit?,0,0,True
+1815,How many xor gates are in this logic circuit?,1,1,True
+1816,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=False, x4=True, x5=False, x6=False, x7=False, x8=True, x9=False?",False,False,True
+1817,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=True, x4=True, x5=True, x6=True, x7=True, x8=False, x9=True?",False,False,True
+1818,How many nand gates are in this logic circuit?,0,0,True
+1819,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=False, x4=False, x5=True, x6=True, x7=False?",True,True,True
+1820,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=True, x4=False, x5=True, x6=False?",False,False,True
+1821,How many nor gates are in this logic circuit?,0,0,True
+1822,How many or gates are in this logic circuit?,3,2,False
+1823,How many xor gates are in this logic circuit?,2,2,True
+1824,How many xnor gates are in this logic circuit?,0,0,True
+1825,How many xnor gates are in this logic circuit?,0,0,True
+1826,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=False, x4=True, x5=False, x6=False, x7=True, x8=True, x9=False?",True,False,False
+1827,How many nor gates are in this logic circuit?,0,0,True
+1828,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=True, x4=False, x5=False, x6=True, x7=True, x8=True?",True,True,True
+1829,How many xor gates are in this logic circuit?,2,2,True
+1830,How many or gates are in this logic circuit?,1,1,True
+1831,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=False, x5=True, x6=True, x7=True, x8=False, x9=False?",False,False,True
+1832,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=False, x4=False, x5=False, x6=True, x7=False, x8=False, x9=True?",True,True,True
+1833,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=False, x4=True, x5=True, x6=True?",True,True,True
+1834,How many xnor gates are in this logic circuit?,0,0,True
+1835,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=True, x4=False, x5=True, x6=True, x7=False, x8=False, x9=True?",True,True,True
+1836,How many or gates are in this logic circuit?,3,2,False
+1837,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=False, x4=False, x5=False, x6=False, x7=True?",False,False,True
+1838,How many not gates are in this logic circuit?,1,1,True
+1839,How many xnor gates are in this logic circuit?,1,0,False
+1840,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=True, x4=False, x5=False, x6=True, x7=False, x8=False?",True,True,True
+1841,How many and gates are in this logic circuit?,3,3,True
+1842,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=False, x4=False, x5=True, x6=True, x7=True, x8=True?",False,False,True
+1843,How many nor gates are in this logic circuit?,0,0,True
+1844,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=True, x4=True, x5=True, x6=True, x7=False?",True,True,True
+1845,How many and gates are in this logic circuit?,1,1,True
+1846,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=True, x4=True, x5=False, x6=False?",True,True,True
+1847,How many nor gates are in this logic circuit?,0,0,True
+1848,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=True, x4=False, x5=True, x6=True, x7=False?",False,False,True
+1849,How many not gates are in this logic circuit?,2,2,True
+1850,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=False, x4=False, x5=False, x6=True, x7=True?",False,False,True
+1851,How many nor gates are in this logic circuit?,0,0,True
+1852,How many nand gates are in this logic circuit?,1,1,True
+1853,How many nand gates are in this logic circuit?,0,0,True
+1854,How many nand gates are in this logic circuit?,0,0,True
+1855,How many xor gates are in this logic circuit?,3,3,True
+1856,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=False, x4=False, x5=True, x6=False, x7=True, x8=True, x9=False?",True,True,True
+1857,How many xnor gates are in this logic circuit?,2,2,True
+1858,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=False, x4=False, x5=True, x6=False?",False,False,True
+1859,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=False, x4=True, x5=False, x6=False, x7=False, x8=False?",False,False,True
+1860,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=False, x4=False, x5=True, x6=False, x7=False, x8=True, x9=True?",True,True,True
+1861,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=False, x4=True, x5=False, x6=False, x7=True, x8=True?",True,True,True
+1862,How many or gates are in this logic circuit?,3,3,True
+1863,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=False, x4=False, x5=False, x6=False, x7=False, x8=False, x9=True?",True,True,True
+1864,How many or gates are in this logic circuit?,2,2,True
+1865,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=True, x5=False, x6=True, x7=False, x8=True, x9=True?",False,False,True
+1866,How many nand gates are in this logic circuit?,0,0,True
+1867,How many and gates are in this logic circuit?,1,1,True
+1868,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=True, x5=True, x6=False, x7=False, x8=True?",False,True,False
+1869,How many nand gates are in this logic circuit?,0,0,True
+1870,How many not gates are in this logic circuit?,0,0,True
+1871,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=True, x4=False, x5=False, x6=True, x7=False?",False,False,True
+1872,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=False, x4=False, x5=True, x6=True, x7=False, x8=True?",False,False,True
+1873,How many and gates are in this logic circuit?,2,2,True
+1874,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=True, x3=False, x4=False, x5=False, x6=True?",True,True,True
+1875,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=True, x4=False, x5=False, x6=True?",True,True,True
+1876,How many nand gates are in this logic circuit?,1,1,True
+1877,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=False, x4=True, x5=True, x6=True, x7=True, x8=False?",True,False,False
+1878,How many xnor gates are in this logic circuit?,0,0,True
+1879,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=True, x5=True, x6=True, x7=False, x8=False, x9=True?",False,True,False
+1880,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=True, x3=True, x4=False, x5=False, x6=False, x7=False, x8=False, x9=False?",True,True,True
+1881,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=False, x4=False, x5=False, x6=True, x7=False, x8=True?",False,False,True
+1882,How many nand gates are in this logic circuit?,0,0,True
+1883,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=False, x4=True, x5=False, x6=False?",False,False,True
+1884,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=True, x4=False, x5=False, x6=True?",True,True,True
+1885,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=True, x4=True, x5=False, x6=False?",False,True,False
+1886,How many nand gates are in this logic circuit?,0,0,True
+1887,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=False, x4=True, x5=False, x6=False, x7=False?",False,True,False
+1888,How many nand gates are in this logic circuit?,1,1,True
+1889,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=False, x4=False, x5=True, x6=True, x7=False, x8=True?",True,False,False
+1890,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=True, x3=True, x4=True, x5=True, x6=False, x7=True, x8=True, x9=False?",True,True,True
+1891,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=False, x4=True, x5=False, x6=True?",True,True,True
+1892,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=True, x4=False, x5=False, x6=False, x7=False, x8=False?",True,True,True
+1893,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=True, x4=True, x5=False, x6=False?",True,True,True
+1894,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=False, x4=False, x5=True, x6=False, x7=False?",True,True,True
+1895,How many not gates are in this logic circuit?,1,1,True
+1896,How many nor gates are in this logic circuit?,0,0,True
+1897,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=True, x4=False, x5=True, x6=True?",True,False,False
+1898,How many not gates are in this logic circuit?,3,3,True
+1899,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=True, x4=True, x5=False, x6=False, x7=True?",True,True,True
+1900,How many nor gates are in this logic circuit?,0,0,True
+1901,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=False, x4=True, x5=False, x6=True, x7=True, x8=True, x9=True?",True,True,True
+1902,How many nand gates are in this logic circuit?,0,0,True
+1903,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=False, x4=True, x5=False, x6=False, x7=True?",True,True,True
+1904,How many xnor gates are in this logic circuit?,0,0,True
+1905,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=True, x4=False, x5=False, x6=False, x7=False, x8=True?",True,True,True
+1906,How many nand gates are in this logic circuit?,0,0,True
+1907,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=False, x4=False, x5=True, x6=False, x7=True, x8=True?",True,True,True
+1908,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=True, x4=False, x5=True, x6=True, x7=False?",False,True,False
+1909,How many xnor gates are in this logic circuit?,0,0,True
+1910,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=True, x4=True, x5=False, x6=True, x7=True, x8=True, x9=False?",False,True,False
+1911,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=False, x5=True, x6=True, x7=False?",True,True,True
+1912,How many or gates are in this logic circuit?,3,3,True
+1913,How many xor gates are in this logic circuit?,2,2,True
+1914,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=True, x4=True, x5=True, x6=False?",True,True,True
+1915,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=True, x4=True, x5=False, x6=False, x7=True?",True,True,True
+1916,How many nor gates are in this logic circuit?,0,0,True
+1917,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=False, x4=False, x5=True, x6=False, x7=True, x8=False, x9=True?",True,True,True
+1918,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=False, x4=False, x5=True, x6=True, x7=True?",False,False,True
+1919,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=False, x4=False, x5=False, x6=True?",True,True,True
+1920,How many nor gates are in this logic circuit?,0,0,True
+1921,How many and gates are in this logic circuit?,3,3,True
+1922,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=True, x4=True, x5=True, x6=True, x7=False?",False,True,False
+1923,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=True, x4=True, x5=True, x6=False, x7=False?",True,True,True
+1924,How many nor gates are in this logic circuit?,0,0,True
+1925,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=True, x4=True, x5=False, x6=False?",False,False,True
+1926,How many nand gates are in this logic circuit?,0,0,True
+1927,How many not gates are in this logic circuit?,3,3,True
+1928,How many xnor gates are in this logic circuit?,0,0,True
+1929,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=True, x5=False, x6=True, x7=False, x8=False?",False,False,True
+1930,How many not gates are in this logic circuit?,2,2,True
+1931,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=True, x4=True, x5=False, x6=False?",True,False,False
+1932,How many nand gates are in this logic circuit?,0,0,True
+1933,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=True, x4=True, x5=True, x6=False, x7=False, x8=True?",False,True,False
+1934,How many nor gates are in this logic circuit?,0,0,True
+1935,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=False, x5=False, x6=True, x7=True?",False,True,False
+1936,How many xnor gates are in this logic circuit?,0,0,True
+1937,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=False, x4=True, x5=False, x6=False, x7=True?",True,True,True
+1938,How many not gates are in this logic circuit?,0,0,True
+1939,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=True, x4=True, x5=True, x6=False, x7=True?",False,True,False
+1940,How many or gates are in this logic circuit?,4,4,True
+1941,How many nor gates are in this logic circuit?,0,0,True
+1942,How many xor gates are in this logic circuit?,1,1,True
+1943,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=True, x3=True, x4=False, x5=True, x6=True, x7=True, x8=False, x9=True?",False,False,True
+1944,How many and gates are in this logic circuit?,1,1,True
+1945,How many xnor gates are in this logic circuit?,0,0,True
+1946,How many nor gates are in this logic circuit?,0,0,True
+1947,How many nand gates are in this logic circuit?,0,0,True
+1948,How many xnor gates are in this logic circuit?,0,0,True
+1949,How many nor gates are in this logic circuit?,0,0,True
+1950,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=False, x4=True, x5=True, x6=True?",False,False,True
+1951,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=False, x4=False, x5=False, x6=False?",False,False,True
+1952,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=True, x4=True, x5=False, x6=True, x7=False, x8=True?",False,False,True
+1953,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=False, x4=False, x5=True, x6=False, x7=False, x8=True, x9=False?",True,False,False
+1954,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=True, x4=False, x5=False, x6=False?",True,True,True
+1955,How many nand gates are in this logic circuit?,0,0,True
+1956,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=False, x4=True, x5=False, x6=True, x7=False?",True,True,True
+1957,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=True, x4=True, x5=True, x6=True, x7=False?",True,True,True
+1958,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=False, x4=False, x5=False, x6=False, x7=False?",False,True,False
+1959,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=True, x3=False, x4=False, x5=True, x6=False?",True,True,True
+1960,How many not gates are in this logic circuit?,0,0,True
+1961,How many xnor gates are in this logic circuit?,0,0,True
+1962,How many xor gates are in this logic circuit?,4,2,False
+1963,How many nand gates are in this logic circuit?,0,0,True
+1964,How many xnor gates are in this logic circuit?,0,0,True
+1965,How many or gates are in this logic circuit?,4,3,False
+1966,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=True, x5=False, x6=False, x7=False, x8=True, x9=True?",True,True,True
+1967,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=True, x5=True, x6=False, x7=False, x8=True, x9=True?",True,True,True
+1968,How many not gates are in this logic circuit?,1,1,True
+1969,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=True, x3=False, x4=False, x5=True, x6=True, x7=False, x8=True?",True,True,True
+1970,How many xor gates are in this logic circuit?,2,2,True
+1971,How many xor gates are in this logic circuit?,2,2,True
+1972,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=True, x4=False, x5=True, x6=False?",True,True,True
+1973,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=False, x4=False, x5=True, x6=False, x7=False, x8=True?",True,True,True
+1974,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=False, x4=True, x5=True, x6=True?",True,True,True
+1975,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=False, x3=False, x4=True, x5=True, x6=False, x7=True?",False,False,True
+1976,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=False, x4=False, x5=False, x6=True?",True,True,True
+1977,How many and gates are in this logic circuit?,4,4,True
+1978,How many or gates are in this logic circuit?,3,3,True
+1979,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=False, x4=False, x5=True, x6=False, x7=True, x8=False, x9=False?",True,True,True
+1980,How many nand gates are in this logic circuit?,0,0,True
+1981,How many xor gates are in this logic circuit?,4,4,True
+1982,How many xor gates are in this logic circuit?,2,2,True
+1983,How many not gates are in this logic circuit?,2,2,True
+1984,How many xnor gates are in this logic circuit?,0,0,True
+1985,How many or gates are in this logic circuit?,2,3,False
+1986,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=True, x3=False, x4=True, x5=True, x6=True, x7=True?",True,True,True
+1987,"What is the output of this logic circuit, given the inputs x0=True, x1=True, x2=False, x3=True, x4=False, x5=False, x6=True?",True,True,True
+1988,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=True, x4=True, x5=False, x6=False?",True,True,True
+1989,How many xor gates are in this logic circuit?,2,2,True
+1990,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=True, x4=True, x5=False, x6=True?",True,True,True
+1991,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=False, x3=True, x4=False, x5=True, x6=True, x7=True?",False,False,True
+1992,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=True, x4=False, x5=True, x6=False, x7=True?",True,True,True
+1993,How many not gates are in this logic circuit?,2,2,True
+1994,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=True, x4=True, x5=False, x6=True, x7=False, x8=True?",True,True,True
+1995,"What is the output of this logic circuit, given the inputs x0=True, x1=False, x2=True, x3=False, x4=False, x5=True, x6=False?",False,False,True
+1996,"What is the output of this logic circuit, given the inputs x0=False, x1=False, x2=True, x3=False, x4=False, x5=False, x6=False, x7=True?",True,True,True
+1997,"What is the output of this logic circuit, given the inputs x0=False, x1=True, x2=False, x3=True, x4=True, x5=False, x6=False, x7=False, x8=True, x9=True?",True,True,True
+1998,How many nand gates are in this logic circuit?,0,0,True
+1999,How many not gates are in this logic circuit?,2,2,True
