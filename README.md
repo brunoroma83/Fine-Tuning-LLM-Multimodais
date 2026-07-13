@@ -1,4 +1,4 @@
-# Competição Kaggle PCS5022
+# Competição Kaggle PCS5022 Redes Nerais e Aprendizado Profundo
 URL: https://www.kaggle.com/competitions/pcs-3838-pcs-5022-2026-parte-2
 
 ## Overview
@@ -17,7 +17,7 @@ Devido ao elevado custo computacional dos modelos multimodais, sugerimos iniciar
 ## Avaliação
 As submissões serão avaliadas com base na habilidade preditiva do modelo no conjunto de teste. Utilizaremos a acurácia como métrica de avaliação, seguindo:
 
-$Acurácia = \frac{Número de Previsões Corretas / Número Total de Previsões}
+$Acurácia = \frac{Número de Previsões Corretas / Número Total de Previsões}$
 
 ## Formato da Submissão
 A submissão deve ser um arquivo CSV com duas colunas: index, answer.
