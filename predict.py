@@ -8,7 +8,7 @@ from peft import PeftModel
 from dotenv import load_dotenv
 from tqdm import tqdm
 from PIL import Image as PILImage, ImageOps
-import config
+from config import *
 load_dotenv()  # Carrega variáveis de ambiente do arquivo .env
 
 # --- 1. CONFIGURAÇÃO DE CAMINHOS ---

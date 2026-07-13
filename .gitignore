@@ -7,3 +7,5 @@ temp/
 multi-venv/
 outputs/
 unsloth-model.py
+backups/
+*.zip
