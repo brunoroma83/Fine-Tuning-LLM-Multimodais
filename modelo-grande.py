@@ -19,3 +19,9 @@
 
 
 # Analisar os resultados
+
+
+# Gerar inferências para o conjunto de test
+
+
+# Enviar para a competição Kaggle
