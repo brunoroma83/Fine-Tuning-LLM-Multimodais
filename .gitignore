@@ -9,3 +9,4 @@ outputs/
 unsloth-model.py
 backups/
 *.zip
+*.ini
